@@ -305,6 +305,7 @@
       <workItem from="1473245083689" duration="13000" />
       <workItem from="1660050512663" duration="836000" />
       <workItem from="1660051369463" duration="2000" />
+      <workItem from="1660051413421" duration="350000" />
     </task>
     <servers />
   </component>
@@ -337,6 +338,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
