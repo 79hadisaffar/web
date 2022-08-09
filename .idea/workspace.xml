@@ -3,8 +3,11 @@
   <component name="AnalysisUIOptions">
     <option name="SCOPE_TYPE" value="3" />
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5158aa5-69e8-47c4-a246-645bf3d7df4c" name="Default" comment="" />
+    <list default="true" id="d5158aa5-69e8-47c4-a246-645bf3d7df4c" name="Default" comment=" https://79hadisaffar.github.io/web/" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,8 +88,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="PhpServers">
-    <servers />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.1">
+    <include_path>
+      <path value="" />
+    </include_path>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -298,7 +303,7 @@
       <workItem from="1473096539424" duration="1270000" />
       <workItem from="1473173619615" duration="740000" />
       <workItem from="1473245083689" duration="13000" />
-      <workItem from="1660050512663" duration="352000" />
+      <workItem from="1660050512663" duration="836000" />
     </task>
     <servers />
   </component>
